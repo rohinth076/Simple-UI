@@ -1,0 +1,28 @@
+header
+{
+    text-align: center;
+    background-color: cyan;
+    padding: 50px;
+    font-size: 30px ;
+}
+
+#div1
+{
+    font-size: 50px;
+    text-align: center;
+    padding: 100px;
+    background-color: lightslategrey;
+}
+
+#div2
+{
+    
+    font-size: 50px;
+    text-align: center;
+    padding: 100px;
+    background-color: powderblue;
+}
+section
+{
+    background-color: seashell;
+}
